@@ -1,0 +1,8 @@
+{
+    "title": "UK population-weighted annual mean PM2.5 data",
+    "description": "These data are population-weighted annual mean concentrations of 2.5 µg m^{-3} particulate matter for local authorities.",
+    "license": "Open Government Licence v3.0",
+    "license_url": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "source": "DEFRA Modelled background pollution data.",
+    "source_url": "https://uk-air.defra.gov.uk/data/pcm-data"
+}
